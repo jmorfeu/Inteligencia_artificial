@@ -26,3 +26,7 @@ palabras = [stemmer.stem(palabra) for palabra in palabras]
 # Resultado
 texto_procesado = ' '.join(palabras)
 print(texto_procesado)
+
+
+#pip install nltk
+#nltk.download('stopwords')
