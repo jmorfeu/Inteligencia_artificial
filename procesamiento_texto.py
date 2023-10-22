@@ -29,4 +29,5 @@ print(texto_procesado)
 
 
 #pip install nltk
+#nltk.download('punkt')
 #nltk.download('stopwords')
